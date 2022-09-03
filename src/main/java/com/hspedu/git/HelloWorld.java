@@ -5,5 +5,7 @@ public class HelloWorld {
         System.out.println("HelloWorld!");
 
         System.out.println("在idea修改代码，push给github");
+        
+        System.out.println("在github修改代码，pull给idea");
     }
 }
